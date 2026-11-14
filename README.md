@@ -1,4 +1,4 @@
-<img width="1538" height="720" alt="image" src="https://github.com/user-attachments/assets/a447b3df-7f6a-4f99-8fd6-7a08e06cb622" />
+<img width="1743" height="624" alt="image" src="https://github.com/user-attachments/assets/ee177f16-5860-4236-af90-39a6e6b4d498" />
 
 # Мониторинг цен конкурентов
 
